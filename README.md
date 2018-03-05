@@ -19,4 +19,16 @@
 + [原型链模式扩展-批量设置公有属性](https://github.com/Yangxiaqing/Note/issues/14)
 + [深入扩展原型链模式常用的六种继承方式](https://github.com/Yangxiaqing/Note/issues/15)
 
+#### 函数、原型、DOM、this的深入 
++ [函数的三种角色](https://github.com/Yangxiaqing/Note/issues/16)
++ [call方法的深入](https://github.com/Yangxiaqing/Note/issues/17)
++ [call和apply和bind的区别](https://github.com/Yangxiaqing/Note/issues/18)
++ [获取数组最大值和最小值](https://github.com/Yangxiaqing/Note/issues/19)
++ [获取平均数](https://github.com/Yangxiaqing/Note/issues/20)
++ [类数组转换为数组](https://github.com/Yangxiaqing/Note/issues/21)
++ [浏览器的异常信息捕获](https://github.com/Yangxiaqing/Note/issues/22)
++ [sort深入研究](https://github.com/Yangxiaqing/Note/issues/23)
++ [json及操作](https://github.com/Yangxiaqing/Note/issues/24)
++ [数据绑定及DOM回流](https://github.com/Yangxiaqing/Note/issues/25)
++ [表格排序及dom映射](https://github.com/Yangxiaqing/Note/issues/26)
 
