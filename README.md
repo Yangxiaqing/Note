@@ -32,3 +32,15 @@
 + [数据绑定及DOM回流](https://github.com/Yangxiaqing/Note/issues/25)
 + [表格排序及dom映射](https://github.com/Yangxiaqing/Note/issues/26)
 
+#### 正则
++ [正则的作用](https://github.com/Yangxiaqing/Note/issues/27)
++ [正则的元字符](https://github.com/Yangxiaqing/Note/issues/28)
++ [正则创建方式的区别]()
++ [编写简单的正则表达式](https://github.com/Yangxiaqing/Note/issues/29)
++ [正则的捕获](https://github.com/Yangxiaqing/Note/issues/30)
++ [分组捕获](https://github.com/Yangxiaqing/Note/issues/31)
++ [replace](https://github.com/Yangxiaqing/Note/issues/32)
++ [正则捕获专题](https://github.com/Yangxiaqing/Note/issues/33)
++ [正则的实战应用-replace](https://github.com/Yangxiaqing/Note/issues/34)
++ [时间字符串格式化](https://github.com/Yangxiaqing/Note/issues/35)
++ [检测数据类型](https://github.com/Yangxiaqing/Note/issues/36)
