@@ -52,3 +52,9 @@
 + [浏览器滚动条卷去的高度](https://github.com/Yangxiaqing/Note/issues/40)
 + [JS中的同步和异步编程](https://github.com/Yangxiaqing/Note/issues/41)
 + [延迟加载思想和首屏延迟加载](https://github.com/Yangxiaqing/Note/issues/42)
+
+#### DOM深入
++ [内置的DOM操作属性和方法](https://github.com/Yangxiaqing/Note/issues/43)
+
+#### #### 动画
++ [JS实现高性能动画优化的黄金法则](https://github.com/Yangxiaqing/Note/issues/44)
