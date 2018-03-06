@@ -56,5 +56,5 @@
 #### DOM深入
 + [内置的DOM操作属性和方法](https://github.com/Yangxiaqing/Note/issues/43)
 
-#### #### 动画
+#### 动画
 + [JS实现高性能动画优化的黄金法则](https://github.com/Yangxiaqing/Note/issues/44)
